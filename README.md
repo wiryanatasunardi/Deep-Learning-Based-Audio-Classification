@@ -15,7 +15,7 @@ The dataset contains audio files from the following 10 classes:
 - Snaredrum
 - Violin
 
-Project Overview
+## Project Overview
 
 This project is implemented in a Jupyter Notebook and follows the following steps:
 
