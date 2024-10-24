@@ -46,7 +46,7 @@ Using librosa library, the audio data was cleaned by:
 There are two models developed for this classification:
 
 #### 1. RNN Model
-In this model, there are LSTRM layers used to capture temporal dependencies in the audio signals.
+In this model, there are LSTM layers used to capture temporal dependencies in the audio signals.
 
 #### 2. CNN Model
 In this model, there are Convolutional layers that are paired with MaxPooling layers to extract spatial features from the audio representations.
